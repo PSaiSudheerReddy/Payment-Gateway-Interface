@@ -1,11 +1,14 @@
 # Payment-Gateway-Integration
-Payment Gateway Integration is developed using HTML,CSS and JavaScript. For payment gateway,Razorpay is used.
 
-For demo card use
+Web Development and Designing internship at The Sparks Foundation.
 
-Card No:- 4111 1111 1111 1111
+This is a simple website craeted to raise donation for helping people suffering from covid 19. 
+This Web Application is developed using HTML,CSS,JavaScript and PHP. For payment gateway,Razorpay(Test Mode) is used.
 
-cvv:- Any
+Languages Used :- Html,CSS,JavaScript,PHP
+Tools Used :- Sublime Text3,VSCode
 
-Validity:- Any
+Website Link :- https://psaisudheerreddy.github.io/Payment-Gateway-Interface/
+
+
 
